@@ -12,7 +12,7 @@ SleekCalc is a modern and sleek calculator app that performs basic arithmetic op
 
   ## Demo
 
-Check out the live demo of SleekCalc [https://sleekcalc.tiiny.site/].
+Check out the live demo of SleekCalc [https://drive.google.com/file/d/1wF6GTsaXsmtygOo6nfiWuZizPrn6aoR2/view?usp=drivesdk]
 ## Usage
 
 - **AC**: Clears the display
